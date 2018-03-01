@@ -545,4 +545,4 @@ var badCheck = function(str) {
 	return str.toString().match(/ *r *e *b *e *c *c *a| *b *l *a *c *k| *f *r *i *d *a *y| *b *l *a *k| *f *r *i *d *e *y/i);
 }
 
-bot.login("MjUyOTQ3NDQzNjY1MjA3Mjk3.Cx5XNw.yDWlP3QBeP_Y9AZUcpLqduQZ3II");
+bot.login("NDE0MTU0NTYyMDY1MTM3Njgx.DXnk8A.Pn-GhAbFzP4mUVlgyaWUndCuBLI");
